@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Araba 👋
 
-<!--
-**arabsannan/arabsannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with 3 years of experience building scalable web apps with Laravel, Vue.js, and React.  
+I'm passionate about clean code, software design principles, and I'm currently deepening my skills in DevOps.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**:  
+- Frontend: React.js, Vue.js, React Native  
+- Backend: Laravel, Python (Flask/FastAPI)  
+- DevOps (learning): Docker, GitHub Actions, AWS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning**: DevOps workflows, Cloud deployment, CI/CD pipelines.
+
+📫 **Let's Connect**:  
+- [Email Me](mailto:aaffranannan@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/araba-affran-annan/) 
+
+---
