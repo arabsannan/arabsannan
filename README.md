@@ -11,6 +11,7 @@ I've worked extensively with Laravel, Vue.js, React, and Python, building system
 - TypeScript, JavaScript
 
 **Backend**
+- Python, PHP, Java, C
 - Laravel, Django, FastAPI, Flask
 - REST APIs, SQL, PostgreSQL
 
