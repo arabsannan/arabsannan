@@ -1,47 +1,74 @@
-# Hi, I'm Araba 👋
+# Hi, I'm Araba 👋🏾
 
-I'm a full-stack software developer with 3+ years of experience building and maintaining production applications, primarily in fintech. I enjoy turning complex business requirements into reliable, scalable software — from backend APIs and database design to user-facing applications.
+### Software Engineer | AI & Full-Stack Development
 
-I've worked extensively with Laravel, Vue.js, React, and Python, building systems that handle real-world workflows, third-party integrations, and high-volume transactions. Currently, I'm pursuing a Master's in Applied Computing while expanding my skills in cloud infrastructure, DevOps, and AI-powered applications.
+I'm a software engineer with nearly 3 years of production experience building web, mobile, payment, and API-driven systems. I'm currently completing a **Master of Applied Computing at the University of Windsor**, with a growing focus on building at the intersection of **software engineering and applied AI**.
+
+I enjoy understanding how things work, finding what can be improved, and building solutions that make processes simpler, faster, or more useful.
+
+* 🤖 Exploring **AI agents, LLM integrations, and retrieval-augmented generation**
+* ⚙️ Interested in **software that improves workflows, processes, and how people get things done**
+* 🌱 Building deeper skills in **cloud and DevOps**
+* 🎓 Master of Applied Computing @ **University of Windsor**
+* 📍 Windsor, Ontario, Canada
+* 💼 Open to **co-op and early-career software engineering opportunities from September 2026**
+
+## 🚀 Selected Projects
+
+### 🧠 Adaptive Multi-Vector Indexing for RAG Systems
+
+Designed and benchmarked an adaptive vector-pruning approach that reduced vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
+
+`Python` `PostgreSQL` `pgvector` `RAG`
+
+---
+
+### 🏃🏾‍♀️ LancerFit
+
+Gamified recreation mobile app featuring email OTP authentication, XP, streaks, leaderboards, and badges, developed across an **8-sprint team delivery cycle**.
+
+`React Native` `TypeScript` `Node.js` `PostgreSQL`
+
+---
+
+### 📣 BroadcastFlow
+
+Built a full-stack campaign management tool for small businesses and community groups to manage WhatsApp campaigns using uploaded CSV and Excel contact lists.
+
+`TypeScript` `Python` `FastAPI`
+
+---
+
+### 📚 LibraryTrack
+
+Collaborated on a library management application for managing books, borrowing workflows, and user interactions, with containerized development and deployment.
+
+`Python` `Django` `Docker`
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React.js, Next.js, Vue.js, React Native
-- TypeScript, JavaScript
+**Languages**
 
-**Backend**
-- Python, PHP, Java, C
-- Laravel, Django, FastAPI, Flask
-- REST APIs, SQL, PostgreSQL
+`Python` `JavaScript` `TypeScript` `PHP` `SQL` `Java`
 
-**DevOps & Cloud**
-- Docker, Docker Compose
-- CI/CD workflows with GitHub Actions
-- Cloud deployments (AWS, Render)
-- Linux, Git
+**Frameworks & Libraries**
 
-**Other**
-- Celery, Redis
-- Selenium
-- AI/LLM integrations
+`React` `React Native` `FastAPI` `Node.js` `Laravel` `Django` `Vue.js`
 
-## 🚀 What I'm Currently Exploring
+**AI & Data**
 
-- Building production-ready cloud applications
-- Improving CI/CD workflows and deployment automation
-- Designing scalable backend architectures
-- Integrating AI into practical applications
+`AI Agents` `LLM APIs` `RAG` `PostgreSQL` `pgvector` `MySQL` `MongoDB`
 
-## 📌 Featured Projects
+**Tools & Platforms**
 
-Coming soon — currently building and documenting projects around:
-- Full-stack applications
-- Mobile applications with React Native
-- AI-powered tools
-- Cloud-deployed services
+`Git` `GitHub` `Docker` `Postman` `Jira` `Linux`
+
+## 💡 Currently Exploring
+
+I'm continuing to build hands-on experience with **AI-enabled software development**, particularly agentic workflows, LLM-powered applications, and retrieval systems, while strengthening my knowledge of **cloud infrastructure, CI/CD, and DevOps practices**.
 
 ## 📫 Let's Connect
 
-- Email: [aaffranannan@gmail.com](mailto:aaffranannan@gmail.com)
-- LinkedIn: [linkedin.com/in/araba-affran-annan](https://www.linkedin.com/in/araba-affran-annan/)
+I'm always interested in connecting with engineers, builders, and teams working on meaningful software and AI-enabled products.
+
+**[LinkedIn](https://www.linkedin.com/in/araba-affran-annan/)** · **Portfolio — coming soon**
