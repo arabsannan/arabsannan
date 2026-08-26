@@ -19,33 +19,33 @@ I enjoy understanding how things work, finding what can be improved, and buildin
 
 **Team project**
 
-Designed and benchmarked an adaptive vector-pruning approach for a RAG pipeline, reducing vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
+Contributed to a RAG pipeline built with FastAPI, PostgreSQL, and pgvector, including implementing **MaxSim-based vector pruning** as part of an adaptive indexing approach that reduced vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
 
-`Python` `FastAPI` `PostgreSQL` `pgvector` `Hugging Face` `Docker`
+`Python` `FastAPI` `PostgreSQL` `pgvector` `RAG` `Docker`
 
 ### 📣 [BroadcastFlow](https://github.com/arabsannan/broadcastflow)
 
 **Personal project**
 
-Built a full-stack campaign management tool that turns CSV/Excel contact lists and reusable message templates into personalized WhatsApp campaigns, with message previews and delivery tracking.
+Designed and built a full-stack campaign management tool that turns CSV/Excel contact lists and reusable message templates into personalized WhatsApp campaigns, with message previews and delivery tracking.
 
-`React` `TypeScript` `FastAPI` `Python` `Selenium`
+`React` `TypeScript` `Python` `FastAPI` `Selenium`
 
 ### 🏃🏾‍♀️ [LancerFit](https://github.com/NeftalemMG/LancerFit)
 
 **Team project**
 
-Built core features for a gamified recreation mobile app, including email OTP authentication, XP, streaks, leaderboards, and badges across an **8-sprint delivery cycle**.
+Built authentication and user-facing flows for a gamified recreation mobile app, including **persistent authentication, email verification, password reset, OTP interactions, navigation, and sign-out**, alongside leaderboard and challenge features and frontend/backend integration.
 
 `React Native` `TypeScript` `Node.js` `PostgreSQL`
 
-### 📚 [LibraryTrack](https://github.com/arabsannan/LibraryTrack)
+### ☁️ [Cloudy](https://github.com/NeftalemMG/Cloudy)
 
 **Team project**
 
-Collaborated on a Django library management application supporting book discovery, borrowing workflows, user accounts, and administrative functionality.
+Contributed to a cloud-storage search and comparison application by developing and integrating **Selenium-based web crawlers**, consolidating provider data, and preparing crawler output for the application's data-loading pipeline.
 
-`Python` `Django` `Docker`
+`Java` `Spring Boot` `Next.js` `TypeScript` `Selenium`
 
 ## 🛠️ Tech Stack
 
