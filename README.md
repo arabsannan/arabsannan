@@ -15,33 +15,35 @@ I enjoy understanding how things work, finding what can be improved, and buildin
 
 ## 🚀 Selected Projects
 
-### 🧠 Adaptive Multi-Vector Indexing for RAG Systems
+### 🧠 [Adaptive Multi-Vector Indexing for RAG Systems](https://github.com/Ujk768/rag-pipeline-backend)
 
-Designed and benchmarked an adaptive vector-pruning approach that reduced vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
+**Team project**
 
-`Python` `PostgreSQL` `pgvector` `RAG`
+Designed and benchmarked an adaptive vector-pruning approach for a RAG pipeline, reducing vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
 
----
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Hugging Face` `Docker`
 
-### 🏃🏾‍♀️ LancerFit
+### 📣 [BroadcastFlow](https://github.com/arabsannan/broadcastflow)
 
-Gamified recreation mobile app featuring email OTP authentication, XP, streaks, leaderboards, and badges, developed across an **8-sprint team delivery cycle**.
+**Personal project**
+
+Built a full-stack campaign management tool that turns CSV/Excel contact lists and reusable message templates into personalized WhatsApp campaigns, with message previews and delivery tracking.
+
+`React` `TypeScript` `FastAPI` `Python` `Selenium`
+
+### 🏃🏾‍♀️ [LancerFit](https://github.com/NeftalemMG/LancerFit)
+
+**Team project**
+
+Built core features for a gamified recreation mobile app, including email OTP authentication, XP, streaks, leaderboards, and badges across an **8-sprint delivery cycle**.
 
 `React Native` `TypeScript` `Node.js` `PostgreSQL`
 
----
+### 📚 [LibraryTrack](https://github.com/arabsannan/LibraryTrack)
 
-### 📣 BroadcastFlow
+**Team project**
 
-Built a full-stack campaign management tool for small businesses and community groups to manage WhatsApp campaigns using uploaded CSV and Excel contact lists.
-
-`TypeScript` `Python` `FastAPI`
-
----
-
-### 📚 LibraryTrack
-
-Collaborated on a library management application for managing books, borrowing workflows, and user interactions, with containerized development and deployment.
+Collaborated on a Django library management application supporting book discovery, borrowing workflows, user accounts, and administrative functionality.
 
 `Python` `Django` `Docker`
 
