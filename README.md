@@ -11,7 +11,7 @@ I enjoy understanding how things work, finding what can be improved, and buildin
 * 🌱 Building deeper skills in **cloud and DevOps**
 * 🎓 Master of Applied Computing @ **University of Windsor**
 * 📍 Windsor, Ontario, Canada
-* 💼 Open to **co-op and early-career software engineering opportunities from September 2026**
+* 💼 Open to **co-op and early-career software engineering and applied AI opportunities from September 2026**
 
 ## 🚀 Selected Projects
 
@@ -19,9 +19,9 @@ I enjoy understanding how things work, finding what can be improved, and buildin
 
 **Team project**
 
-Contributed to a RAG pipeline built with FastAPI, PostgreSQL, and pgvector, including implementing **MaxSim-based vector pruning** as part of an adaptive indexing approach that reduced vector-index size by **51%** while retaining **77% of baseline retrieval quality (nDCG@10)**.
+Proposed and contributed to an adaptive vector-indexing research project for RAG systems, implementing MMR, DocPruner, and MaxSim-based relevance scoring/reranking and benchmarking retrieval-quality vs. storage trade-offs on BEIR datasets. MMR achieved the strongest pruned SciFact result at a 50% storage budget (0.399 nDCG@10).
 
-`Python` `FastAPI` `PostgreSQL` `pgvector` `RAG` `Docker`
+`Python` `FastAPI` `PostgreSQL` `pgvector` `BEIR` `RAG` `Docker`
 
 ### 📣 [BroadcastFlow](https://github.com/arabsannan/broadcastflow)
 
@@ -38,6 +38,14 @@ Designed and built a full-stack campaign management tool that turns CSV/Excel co
 Built authentication and user-facing flows for a gamified recreation mobile app, including **persistent authentication, email verification, password reset, OTP interactions, navigation, and sign-out**, alongside leaderboard and challenge features and frontend/backend integration.
 
 `React Native` `TypeScript` `Node.js` `PostgreSQL`
+
+### 📚 [LibraryTrack](https://github.com/arabsannan/LibraryTrack)
+
+**Team project**
+
+Implemented Django-based **user account and authentication workflows**, including registration, login/logout, password reset, profile viewing, and profile editing. Also developed user-facing functionality such as **recently viewed books** and prepared the Dockerized application for **production deployment on Render**.
+
+`Python` `Django` `Docker` `Render` `Git/GitHub`
 
 ### ☁️ [Cloudy](https://github.com/NeftalemMG/Cloudy)
 
@@ -65,9 +73,6 @@ Contributed to a cloud-storage search and comparison application by developing a
 
 `Git` `GitHub` `Docker` `Postman` `Jira` `Linux`
 
-## 💡 Currently Exploring
-
-I'm continuing to build hands-on experience with **AI-enabled software development**, particularly agentic workflows, LLM-powered applications, and retrieval systems, while strengthening my knowledge of **cloud infrastructure, CI/CD, and DevOps practices**.
 
 ## 📫 Let's Connect
 
