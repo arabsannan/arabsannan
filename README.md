@@ -11,7 +11,7 @@ I enjoy understanding how things work, finding what can be improved, and buildin
 * 🌱 Building deeper skills in **cloud and DevOps**
 * 🎓 Master of Applied Computing @ **University of Windsor**
 * 📍 Windsor, Ontario, Canada
-* 💼 Open to **co-op and early-career software engineering and applied AI opportunities from September 2026**
+* 💼 Open to **software engineering and applied AI opportunities from September 2026**
 
 ## 🚀 Selected Projects
 
